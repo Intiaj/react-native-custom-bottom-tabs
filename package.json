@@ -1,0 +1,17 @@
+{
+  "name": "react-native-custom-bottom-tabs",
+  "version": "0.0.1",
+  "description": "Custom Bottom Tab for React Navigation with React Native. ",
+  "keywords": [
+    "custom-bottom-tabs",
+    "react-native-bottom-tabs",
+    "custom-react-navigation-bottom-tab"
+  ],
+  "license": "MIT License",
+  "author": "Intiaj Islam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
